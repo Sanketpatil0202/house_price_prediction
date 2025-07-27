@@ -37,6 +37,7 @@ The dataset used includes information on:
 - NumPy
 - Matplotlib & Seaborn
 - Scikit-learn
+- Statsmodel
 
 ---
 
